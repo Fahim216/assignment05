@@ -3,11 +3,10 @@
     width: 500px;
     border-radius: 5px;
 }
-.food-item{
-    
+.food-name{
+    font-size: 20px;
+    font-weight: 700;
 }
-#food-container{
-    display: grid;
-    grid-column: 3,1fr;
- 
+.food-item{
+    background-color: gray;
 }
