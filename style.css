@@ -1,0 +1,13 @@
+.food-image{
+    height: 500px;
+    width: 500px;
+    border-radius: 5px;
+}
+.food-item{
+    
+}
+#food-container{
+    display: grid;
+    grid-column: 3,1fr;
+ 
+}
