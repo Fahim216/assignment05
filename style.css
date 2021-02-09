@@ -6,7 +6,12 @@
 .food-name{
     font-size: 20px;
     font-weight: 700;
+    
 }
 .food-item{
     background-color: gray;
+}
+.food-details{
+    color: white;
+    background-color: green;
 }
